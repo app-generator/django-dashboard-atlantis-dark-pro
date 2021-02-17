@@ -1,6 +1,9 @@
 # Change Log
 
-## [1.0.0] 2020-06-16
-### Initial Release
+## [1.0.1] 2021-02-17
 
-- Code-base version - v1.0.1
+- UI: [Jinja Atlantis PRO](https://github.com/app-generator/jinja-atlantis-dark-pro) v1.0.0 - 2021-01-05 Snapshot
+- Codebase: [Django Dashboard](https://github.com/app-generator/boilerplate-code-django-dashboard/releases) v1.0.4
+
+## [1.0.0] 2020-02-07
+### Initial Release
